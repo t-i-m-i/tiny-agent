@@ -15,6 +15,8 @@ An agent is a loop:
 Everything else in tools like Codex or Copilot (permissions, sandboxing, planning, streaming, sub-agents) is
 infrastructure built around this loop. The work is split into [stages](docs/stages.md), each adding one idea.
 
+See [How the agent loop works](docs/how-it-works.md) to learn in plain English what an agent is and how it works.
+
 ## Stack
 
 | Piece | What it is for |
