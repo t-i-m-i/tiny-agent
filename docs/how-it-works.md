@@ -1,7 +1,5 @@
 # How the agent loop works
 
-This expands the short "An agent is a loop" section of the README. It assumes you have never seen this before.
-
 ## 1. The one fact everything depends on
 
 **The model can only read text and write text.** It cannot open files, run commands, or browse the web. It lives
